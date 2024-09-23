@@ -1,2 +1,13 @@
+/* Style for main element with class "accio" and id "job" */
+main.accio#job {
+    width: 150px;
+    height: 150px;
+    background-color: #000000; /* Black background */
+}
 
-/* Your CSS Code here. */
+/* Style for paragraph element with class "hello-accio" */
+p.hello-accio {
+    color: #ffffff; /* White text */
+    margin-left: 32px;
+    padding: 10px;
+}
